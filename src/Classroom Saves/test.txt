@@ -1,0 +1,4 @@
+0,0
+TripleDesk,(489,226),true,false,true
+DoubleDesk,(666,373),true,false
+FourLongDesk,(498,104),true,false,true,true
